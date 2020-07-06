@@ -1,0 +1,162 @@
+.container{
+    margin-bottom: 100px;;
+}
+
+/***************** Header Section Start **************************/
+.form-inline .form-control {
+    display: block;
+    width: 100%;
+    vertical-align: middle;
+    border-radius: 17px;
+    background-color: gainsboro;
+}
+/***************** Header Section End **************************/
+
+
+
+
+
+
+/***************** Hero Section Start **************************/
+.bg-light-pink{
+    background-color: #FEEAE9;
+    
+}
+
+.buy-now-button{
+    background-image: linear-gradient(#FF67A3, #FF3081);
+    border: none;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+.carousel{
+    border-radius: 10px;
+}
+
+.carousel p{
+    color: rgb(75, 72, 72);
+}
+
+
+.price-color{
+    color: #FF3785 ;
+}
+/***************** Hero Section End **************************/
+
+
+
+
+
+
+/***************** Categories Section Start **************************/
+.cat1{
+    background-image: linear-gradient(to right, #FFA649,#FFD530);
+}
+
+.cat2{
+    background-image: linear-gradient(to right, #FF438D,#FF4991);
+}
+
+.cat3{
+    background-image: linear-gradient(to right, #546EFD,#521FF9);
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+/***************** Categories Section End **************************/
+
+
+
+
+
+
+/***************** Shoes Section Start **************************/
+.shoes_area{
+    background-color: #F9F9F9;
+    padding: 50px 0;
+}
+.shoes_area h1{
+    margin-bottom: 55px;
+}
+.card{
+    border: none;
+    box-shadow: 3px 3px 10px grey;
+}
+
+.card h5{
+    margin: 30px 0;
+}
+/***************** Shoes Section End **************************/
+
+
+
+
+
+
+/***************** Backpack Section Start **************************/
+.bag_area{
+    background-color: #F9F9F9;
+    padding: 50px 0;
+}
+/***************** Backpack Section End **************************/
+
+
+
+
+
+
+/***************** Contact Section Start **************************/
+.contact_area{
+    margin-top: 100px;
+}
+.contact{
+    background-color: #FEECEB;
+    padding: 70px 0;
+    border-radius: 20px;
+}
+
+.contact p{
+    color: grey;
+    margin: 25px 0;
+}
+
+input[type=email] {
+    width: 330px;
+    height: 34px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+}
+/***************** Contact Section End **************************/
+
+
+
+
+
+
+/***************** Footer Section Start **************************/
+footer {
+    text-align: center;
+    color: grey;
+}
+/***************** Footer Section End **************************/
+
+
+
+
+
+
+
+
+
+
